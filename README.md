@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 
-❤️ Programming | Networking | Economics 
+* ❤️ Programming | Networking | Economics 
 
   * 🔭 I’m currently working on NetCore
   * 🌱 I’m currently learning SwiftUI
