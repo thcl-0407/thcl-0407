@@ -5,8 +5,7 @@
 
 ### 🚀 About Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andy3520" alt="andy3520" /> </p>
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=thcl-0407&show_icons=true)](https://github.com/thcl-0407/thcl-0407) 
 
 
 
