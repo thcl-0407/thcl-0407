@@ -3,9 +3,9 @@
 
 ### FullStack Developer | Software Enginner 
 
-### 🚀 About Me
+### About Me
 
-<p>&emsp;❤️ Programming | Networking | Economics</p> 
+<p>❤️ Programming | 🧡 Networking | 💚 Economics</p> 
 
 <p>&emsp;&emsp;🔭 I’m currently working on NetCore</p>
 <p>&emsp;&emsp;🌱 I’m currently learning SwiftUI</p>
