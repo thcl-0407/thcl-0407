@@ -1,16 +1,10 @@
----
-title: ArahirooriharA
-date: '2020-14-05'
-spoiler: Short and Sweet Realtime Readme Template
-categories: ["short-and-sweet", "all-profile"]
-githubUsername: 'ArahirooriharA'
----
-
-## Hi, im Samuel ⚡
+## Hi, I am Tran Huynh Cong Loc ⚡
 
 Backend Developer | Software Enginner
-
-FTT Student.
+<p>
+  <img width="200" alt="hello!" align="left" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_IUH.png">
+</p>
+IUH Student
 
 
 
