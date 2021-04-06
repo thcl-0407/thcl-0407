@@ -2,8 +2,7 @@
 
 ## FullStack Developer | Software Enginner
 
-From IUH With Love
-
-<p>
+<div>
+  From IUH With Love
   <img width="200" align="left" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_IUH.png">
-</p>
+</div>
