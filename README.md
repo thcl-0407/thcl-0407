@@ -1,10 +1,8 @@
-<p>
+<span>
    # Hi, I am Tran Huynh Cong Loc ⚡
-    
-    ## FullStack Developer | Software Enginner
-  
   <img width="150" align="left" src="https://media.giphy.com/media/VgGpnYeMVljm1vRA6g/giphy.gif">
   
-</p>
+</span>
+## FullStack Developer | Software Enginner
 
 
