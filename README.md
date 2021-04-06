@@ -1,4 +1,4 @@
 <div>
   # Hi, I am Tran Huynh Cong Loc ⚡
-  <img width="200" align="left" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_IUH.png"> ## FullStack Developer | Software Enginner
+  <img width="300" align="left" src="https://media.giphy.com/media/VgGpnYeMVljm1vRA6g/giphy.gif"> ## FullStack Developer | Software Enginner
 </div>
