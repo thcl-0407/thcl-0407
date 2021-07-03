@@ -1,5 +1,5 @@
 
-##  Hi 👋 I am Tran Huynh Cong Loc <img width="300" align="left" src="https://media.giphy.com/media/VgGpnYeMVljm1vRA6g/giphy.gif">
+##  Hi 👋 I am Tran Huynh Cong Loc <img width="300" align="left" src="https://media.giphy.com/media/PYMX3EllIl0J6AVJEb/giphy.gif">
 
 ### FullStack Developer | Software Enginner 
 
