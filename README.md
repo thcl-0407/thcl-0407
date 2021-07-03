@@ -1,5 +1,5 @@
 
-##  Hi 🤗 I am Glen <img width="300" align="left" src="https://media.giphy.com/media/PYMX3EllIl0J6AVJEb/giphy.gif">
+##  Nice to see you 🤟 I am Glen <img width="300" align="left" src="https://media.giphy.com/media/PYMX3EllIl0J6AVJEb/giphy.gif">
 
 ### FullStack Developer | Software Enginner 
 
