@@ -1,11 +1,7 @@
 
-##  Nice to see you 🤟 I am Glen <img width="300" align="left" src="https://media.giphy.com/media/PYMX3EllIl0J6AVJEb/giphy.gif">
-
-### FullStack Developer | Software Enginner 
-
-<p>❤️ Programming | 🧡 Networking | 💚 Economics</p> 
-
-### About Me
+# Nice to see you 🤟 I am Glen <img width="300" align="left" src="https://media.giphy.com/media/PYMX3EllIl0J6AVJEb/giphy.gif">
+## Software Enginner
+### 📌 About Me
 
 <p>&emsp;&emsp;🔭 I’m currently working on NetCore</p>
 <p>&emsp;&emsp;🌱 I’m currently learning SwiftUI</p>
