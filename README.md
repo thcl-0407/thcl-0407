@@ -3,7 +3,7 @@
 ## Software Enginner
 ### 📌 About Me
 
-<p>&emsp;&emsp;🔭 I’m currently working on .NET Core</p>
+<p>&emsp;&emsp;🔭 I’m currently working on .NET 6</p>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=thcl-0407&show_icons=true)](https://github.com/thcl-0407/thcl-0407) 
 
